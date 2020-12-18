@@ -1,10 +1,10 @@
 # --- Mainland China Available --
 
 # >>rixCloud
-DOMAIN,doh.rixcloud.dev
+DOMAIN-SUFFIX,doh.rixcloud.dev
+DOMAIN-SUFFIX,rixcloud.fail
 DOMAIN-SUFFIX,rixcloudstatus.com
 DOMAIN-SUFFIX,rixcloudstatus.io
-DOMAIN-SUFFIX,rixcloud.fail
 
 # >> 360
 DOMAIN-SUFFIX,qhimg.com
@@ -34,8 +34,8 @@ DOMAIN-SUFFIX,youku.com
 USER-AGENT,%E4%BC%98%E9%85%B7*
 
 # >> Apple
+DOMAIN-SUFFIX,gs-loc-cn.apple.com
 DOMAIN-SUFFIX,icloud.com.cn
-DOMAIN,gs-loc-cn.apple.com
 
 # >> Baidu
 DOMAIN-SUFFIX,baidu.com
@@ -57,7 +57,7 @@ DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,blizzard.com
 
-DOMAIN,blzddist1-a.akamaihd.net
+DOMAIN-SUFFIX,blzddist1-a.akamaihd.net
 
 # >> ByteDance
 DOMAIN-SUFFIX,bytecdn.cn
@@ -95,9 +95,8 @@ DOMAIN-SUFFIX,hitv.com
 DOMAIN-SUFFIX,mgtv.com
 
 # >> IP Query
-DOMAIN,ip.bjango.com
-
 DOMAIN-SUFFIX,ip-cdn.com
+DOMAIN-SUFFIX,ip.bjango.com
 DOMAIN-SUFFIX,ip.cn
 DOMAIN-SUFFIX,ip.la
 DOMAIN-SUFFIX,ipip.net
@@ -135,15 +134,13 @@ DOMAIN-SUFFIX,miwifi.com
 DOMAIN-SUFFIX,xiaomi.com
 
 # >> Microsoft
-DOMAIN,officecdn-microsoft-com.akamaized.net
-
 DOMAIN-KEYWORD,officecdn
-
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,microsoftstore.com.cn
 DOMAIN-SUFFIX,msecnd.net
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
+DOMAIN-SUFFIX,officecdn-microsoft-com.akamaized.net
 DOMAIN-SUFFIX,outlook.com
 DOMAIN-SUFFIX,s-microsoft.com
 DOMAIN-SUFFIX,sfx.ms
@@ -153,9 +150,9 @@ DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,windowsupdate.com
 
 # Rainway
-DOMAIN,cya.gg
-DOMAIN,ipv4.rainway.com
-DOMAIN,ipv6.rainway.com
+DOMAIN-SUFFIX,cya.gg
+DOMAIN-SUFFIX,ipv4.rainway.com
+DOMAIN-SUFFIX,ipv6.rainway.com
 
 # >> NetEase
 DOMAIN-SUFFIX,126.net
@@ -192,17 +189,10 @@ DOMAIN-SUFFIX,sogoucdn.com
 DOMAIN-SUFFIX,jstarkan.com
 
 # >> Tencent
-DOMAIN,vi.l.qq.com
+DOMAIN-SUFFIX,vi.l.qq.com
 DOMAIN-SUFFIX,dns.pub
 DOMAIN-SUFFIX,doh.pub
 DOMAIN-SUFFIX,qcloud.com
-
-
-# >> Tesla
-DOMAIN-SUFFIX,52tesla.com
-DOMAIN-SUFFIX,xiaote.net
-USER-AGENT,TeslaMap
-
 DOMAIN-SUFFIX,gtimg.com
 DOMAIN-SUFFIX,idqqimg.com
 DOMAIN-SUFFIX,igamecj.com
@@ -215,6 +205,11 @@ DOMAIN-SUFFIX,tencent.com
 
 USER-AGENT,MicroMessenger%20Client
 USER-AGENT,WeChat*
+
+# >> Tesla
+DOMAIN-SUFFIX,52tesla.com
+DOMAIN-SUFFIX,xiaote.net
+USER-AGENT,TeslaMap
 
 # >> YYeTs
 DOMAIN-SUFFIX,jstucdn.com
@@ -237,7 +232,6 @@ DOMAIN-SUFFIX,staticdn.net
 DOMAIN-SUFFIX,wangsu.com
 
 # >> Others
-DOMAIN,cn.download.nvidia.com
 DOMAIN-KEYWORD,amplifi
 
 DOMAIN-SUFFIX,12306.cn
@@ -269,6 +263,7 @@ DOMAIN-SUFFIX,chushou.tv
 DOMAIN-SUFFIX,cmbchina.com
 DOMAIN-SUFFIX,cmbimg.com
 DOMAIN-SUFFIX,cmvideo.cn
+DOMAIN-SUFFIX,cn.download.nvidia.com
 DOMAIN-SUFFIX,ctrip.com
 DOMAIN-SUFFIX,dfcfw.com
 DOMAIN-SUFFIX,dida365.com
@@ -315,7 +310,6 @@ DOMAIN-SUFFIX,mobike.com
 DOMAIN-SUFFIX,mubu.com
 DOMAIN-SUFFIX,myzaker.com
 DOMAIN-SUFFIX,nim-lang-cn.org
-DOMAIN-SUFFIX,nvidia.com
 DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,paypalobjects.com
 DOMAIN-SUFFIX,qdaily.com
@@ -329,7 +323,6 @@ DOMAIN-SUFFIX,s-reader.com
 DOMAIN-SUFFIX,sankuai.com
 DOMAIN-SUFFIX,scomper.me
 DOMAIN-SUFFIX,seafile.com
-DOMAIN-SUFFIX,sm.ms
 DOMAIN-SUFFIX,smzdm.com
 DOMAIN-SUFFIX,snapdrop.net
 DOMAIN-SUFFIX,snwx.com
@@ -354,23 +347,6 @@ DOMAIN-SUFFIX,zhangzishi.cc
 DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhuihd.com
-
-# Client
-
-# >> Proxy
-PROCESS-NAME,v2ray
-PROCESS-NAME,ss-local
-
-# >> Downloader
-PROCESS-NAME,aria2c
-PROCESS-NAME,fdm
-PROCESS-NAME,Folx
-PROCESS-NAME,NetTransport
-PROCESS-NAME,Thunder
-PROCESS-NAME,Transmission
-PROCESS-NAME,uTorrent
-PROCESS-NAME,WebTorrent
-PROCESS-NAME,WebTorrent Helper
 
 # >> Tencent AIA
 IP-CIDR,162.14.0.0/18,no-resolve
