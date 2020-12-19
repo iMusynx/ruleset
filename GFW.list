@@ -11,6 +11,10 @@ DOMAIN-SUFFIX,rixcloud.io
 DOMAIN-SUFFIX,rixcloud.app
 DOMAIN-SUFFIX,rixcloud.ee
 
+# >> EHentai
+DOMAIN-SUFFIX,e-hentai.org
+DOMAIN-SUFFIX,exhentai.org
+
 # >> Google
 DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,blogger.com
