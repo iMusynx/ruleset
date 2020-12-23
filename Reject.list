@@ -419,6 +419,8 @@ DOMAIN-SUFFIX,tajs.qq.com
 # >> TikTok (include China / Internation Version)
 DOMAIN-SUFFIX,bds.snssdk.com
 DOMAIN-SUFFIX,extlog.snssdk.com
+DOMAIN-SUFFIX,i.snssdk.com
+DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,log.snssdk.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
 DOMAIN-SUFFIX,pangolin.snssdk.com
