@@ -227,6 +227,14 @@ DOMAIN-SUFFIX,yldbt.com
 DOMAIN-SUFFIX,ymtracking.com
 DOMAIN-SUFFIX,zz.bdstatic.com
 
+DOMAIN-SUFFIX,g1.tagtic.cn
+DOMAIN-SUFFIX,img.adnyg.com
+DOMAIN-SUFFIX,img.adnyg.com.w.kunlungr.com
+DOMAIN-SUFFIX,log.tagtic.cn
+DOMAIN-SUFFIX,pgdt.ugdtimg.com
+DOMAIN-SUFFIX,sdownload.stargame.com
+DOMAIN-SUFFIX,ulogs.umeng.com
+
 # >> Alibaba
 DOMAIN-SUFFIX,acs4baichuan.m.taobao.com
 DOMAIN-SUFFIX,adash-c.ut.taobao.com
