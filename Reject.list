@@ -1,7 +1,6 @@
 # --- AD Block ---
 
 # >> General
-
 DOMAIN-KEYWORD,adservice
 DOMAIN-SUFFIX,1391.com
 DOMAIN-SUFFIX,3lift.com
@@ -108,6 +107,7 @@ DOMAIN-SUFFIX,i2000.xyz
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,igexin.com
 DOMAIN-SUFFIX,img.adnyg.com
+DOMAIN-SUFFIX,img.adnyg.com.w.kunlungr.com
 DOMAIN-SUFFIX,imrworldwide.com
 DOMAIN-SUFFIX,indexww.com
 DOMAIN-SUFFIX,inmobi.cn
@@ -115,6 +115,7 @@ DOMAIN-SUFFIX,inmobi.com
 DOMAIN-SUFFIX,instabug.com
 DOMAIN-SUFFIX,irs01.com
 DOMAIN-SUFFIX,juicyads.com
+DOMAIN-SUFFIX,juxun58.cn
 DOMAIN-SUFFIX,kejet.net
 DOMAIN-SUFFIX,knlob.com
 DOMAIN-SUFFIX,kochava.com
@@ -125,7 +126,7 @@ DOMAIN-SUFFIX,leanplum.com
 DOMAIN-SUFFIX,lenzmx.com
 DOMAIN-SUFFIX,lnk0.com
 DOMAIN-SUFFIX,log.b612kaji.com
-DOMAIN-SUFFIX,log.star.ele.me
+DOMAIN-SUFFIX,log.tagtic.cn
 DOMAIN-SUFFIX,log.umsns.com
 DOMAIN-SUFFIX,log.voicecloud.cn
 DOMAIN-SUFFIX,log.ys7.com
@@ -155,6 +156,7 @@ DOMAIN-SUFFIX,pagead2.googlesyndication.com
 DOMAIN-SUFFIX,parsely.com
 DOMAIN-SUFFIX,peak-adx.com
 DOMAIN-SUFFIX,personaly.click
+DOMAIN-SUFFIX,pgdt.ugdtimg.com
 DOMAIN-SUFFIX,pubnative.net
 DOMAIN-SUFFIX,qchannel01.cn
 DOMAIN-SUFFIX,qualtrics.com
@@ -167,6 +169,7 @@ DOMAIN-SUFFIX,s0.2mdn.net
 DOMAIN-SUFFIX,scorecardresearch.com
 DOMAIN-SUFFIX,sdk.leeyegy.com
 DOMAIN-SUFFIX,sdk.qzbonline.com
+DOMAIN-SUFFIX,sdownload.stargame.com
 DOMAIN-SUFFIX,serving-sys.com
 DOMAIN-SUFFIX,sf3-ttcdn-tos.pstatp.com
 DOMAIN-SUFFIX,simplepath.com
@@ -209,6 +212,7 @@ DOMAIN-SUFFIX,tuanxue360.net
 DOMAIN-SUFFIX,turn.com
 DOMAIN-SUFFIX,uberads.com
 DOMAIN-SUFFIX,udrig.com
+DOMAIN-SUFFIX,ulogs.umeng.com
 DOMAIN-SUFFIX,umeng.co
 DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,umengcloud.com
@@ -222,18 +226,10 @@ DOMAIN-SUFFIX,webspectator.com
 DOMAIN-SUFFIX,wgo.mmstat.com
 DOMAIN-SUFFIX,wmlog.meituan.com
 DOMAIN-SUFFIX,xadchina.cn
-DOMAIN-SUFFIX,xdrig.com
 DOMAIN-SUFFIX,yldbt.com
 DOMAIN-SUFFIX,ymtracking.com
+DOMAIN-SUFFIX,zyueyun.com
 DOMAIN-SUFFIX,zz.bdstatic.com
-
-DOMAIN-SUFFIX,g1.tagtic.cn
-DOMAIN-SUFFIX,img.adnyg.com
-DOMAIN-SUFFIX,img.adnyg.com.w.kunlungr.com
-DOMAIN-SUFFIX,log.tagtic.cn
-DOMAIN-SUFFIX,pgdt.ugdtimg.com
-DOMAIN-SUFFIX,sdownload.stargame.com
-DOMAIN-SUFFIX,ulogs.umeng.com
 
 # >> Alibaba
 DOMAIN-SUFFIX,acs4baichuan.m.taobao.com
@@ -425,7 +421,8 @@ DOMAIN-SUFFIX,rqd.qq.com
 DOMAIN-SUFFIX,splashqqlive.gtimg.com
 DOMAIN-SUFFIX,tajs.qq.com
 
-# >> TikTok (include China / Internation Version)
+# >> ByteDance (include China / Internation Version)
+DOMAIN-SUFFIX,analytics.snssdk.com
 DOMAIN-SUFFIX,bds.snssdk.com
 DOMAIN-SUFFIX,extlog.snssdk.com
 DOMAIN-SUFFIX,i.snssdk.com
