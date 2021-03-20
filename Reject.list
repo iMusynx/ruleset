@@ -433,6 +433,7 @@ DOMAIN-SUFFIX,analytics.snssdk.com
 DOMAIN-SUFFIX,bds.snssdk.com
 DOMAIN-SUFFIX,extlog.snssdk.com
 DOMAIN-SUFFIX,i.snssdk.com
+DOMAIN-SUFFIX,dm.toutiao.com
 DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,log.snssdk.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
