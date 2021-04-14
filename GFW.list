@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,rixcloud.ee
 # >> EHentai
 DOMAIN-SUFFIX,e-hentai.org
 DOMAIN-SUFFIX,exhentai.org
+DOMAIN-SUFFIX,ehgt.org
 
 # >> Google
 DOMAIN-SUFFIX,appspot.com
@@ -114,6 +115,7 @@ DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,turbobit.net
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,uptodown.com
+DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,v2ray.com
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vine.co
