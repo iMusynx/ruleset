@@ -291,6 +291,7 @@ DOMAIN-SUFFIX,log.ycapp.yiche.com
 
 # >> Bilibili
 DOMAIN-SUFFIX,cm.bilibili.com
+DOMAIN-SUFFIX,mcdn.bilivideo.cn
 DOMAIN-SUFFIX,thirdparty.biliapi.com
 DOMAIN-SUFFIX,thirdparty.biliapi.net
 URL-REGEX,https://app.bilibili.com/x/v2/param
