@@ -415,6 +415,7 @@ URL-REGEX,^http:\/\/api\.m\.jd\.com\/client\.action\?functionId=start$
 
 # >> Tencent
 DOMAIN-SUFFIX,access-sngapm.qcloud.com
+DOMAIN-SUFFIX,adsmind.ugdtimg.com
 DOMAIN-SUFFIX,btrace.qq.com
 DOMAIN-SUFFIX,bugly.qq.com
 DOMAIN-SUFFIX,e.qq.com
