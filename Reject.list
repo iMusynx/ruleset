@@ -263,9 +263,11 @@ DOMAIN-SUFFIX,advertise.baicizhan.com
 DOMAIN-SUFFIX,advertise.baicizhan.org
 
 # >> Baidu
+DOMAIN-SUFFIX,als.baidu.com
 DOMAIN-SUFFIX,baidustatic.com
 DOMAIN-SUFFIX,duclick.baidu.com
 DOMAIN-SUFFIX,duxiaoman.com
+DOMAIN-SUFFIX,caclick.baidu.com
 DOMAIN-SUFFIX,hm.baidu.com
 DOMAIN-SUFFIX,hmma.baidu.com
 DOMAIN-SUFFIX,mobads-logs.baidu.com
@@ -280,6 +282,7 @@ DOMAIN-SUFFIX,sofire.baidu.com
 DOMAIN-SUFFIX,sv.map.baidu.com
 DOMAIN-SUFFIX,ulog.imap.baidu.com
 DOMAIN-SUFFIX,upl.baidu.com
+DOMAIN-SUFFIX,wkclick.baidu.com
 DOMAIN-SUFFIX,wn.pos.baidu.com
 
 URL-REGEX,^http:\/\/[\s\S]*baidu\.com/.*ad[xs]\.php
