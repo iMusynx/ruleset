@@ -202,7 +202,7 @@ DOMAIN-SUFFIX,qpic.cn
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,tencent-cloud.net
 DOMAIN-SUFFIX,tencent.com
-DOMAIN-SUFFIX,wechat.com
+#DOMAIN-SUFFIX,wechat.com
 
 USER-AGENT,MicroMessenger%20Client
 USER-AGENT,WeChat*
