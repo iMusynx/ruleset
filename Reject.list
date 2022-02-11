@@ -296,7 +296,6 @@ DOMAIN-SUFFIX,log.ycapp.yiche.com
 
 # >> Bilibili
 DOMAIN-SUFFIX,cm.bilibili.com
-DOMAIN-SUFFIX,mcdn.bilivideo.cn
 DOMAIN-SUFFIX,thirdparty.biliapi.com
 DOMAIN-SUFFIX,thirdparty.biliapi.net
 URL-REGEX,https://app.bilibili.com/x/v2/param
@@ -371,6 +370,8 @@ DOMAIN-SUFFIX,v1.log.moji.com
 # >> Netease
 DOMAIN-SUFFIX,ad.bn.netease.com
 DOMAIN-SUFFIX,ad.yixin.im
+DOMAIN-SUFFIX,clientlog.music.163.com
+DOMAIN-SUFFIX,clientlog3.music.163.com
 DOMAIN-SUFFIX,iadmat.nosdn.127.net
 DOMAIN-SUFFIX,iadmusicmat.music.126.net
 DOMAIN-SUFFIX,iadmusicmatvideo.music.126.net
