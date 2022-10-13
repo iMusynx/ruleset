@@ -2,6 +2,7 @@
 
 # >> General
 DOMAIN-KEYWORD,adservice
+DOMAIN-SUFFIX,api.mbrx.app
 DOMAIN-SUFFIX,info.appbuyapp.com
 DOMAIN-SUFFIX,mazu.m.qq.com
 DOMAIN-SUFFIX,sdk.e.qq.com
