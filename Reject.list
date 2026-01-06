@@ -187,6 +187,7 @@ DOMAIN-SUFFIX,simplepath.com
 DOMAIN-SUFFIX,skimresources.com
 DOMAIN-SUFFIX,smardroid.com
 DOMAIN-SUFFIX,snnd.co
+DOMAIN-SUFFIX,sns.umetrip.com
 DOMAIN-SUFFIX,sonobi.com
 DOMAIN-SUFFIX,sp0.baidu.com
 DOMAIN-SUFFIX,ssl2.duapps.com
@@ -419,12 +420,16 @@ DOMAIN-SUFFIX,i.snssdk.com
 DOMAIN-SUFFIX,dm.toutiao.com
 DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,mssdk.volces.com
+DOMAIN-SUFFIX,adkwai.com
+DOMAIN-SUFFIX,66mobi.com
 DOMAIN-KEYWORD,pangolin-sdk
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
 DOMAIN-SUFFIX,pangolin.snssdk.com
 DOMAIN-SUFFIX,pglstatp-toutiao.com
 DOMAIN-SUFFIX,smr.snssdk.com
 DOMAIN-SUFFIX,snr.snssdk.com
+DOMAIN-SUFFIX,adwangmai.com
 URL-REGEX,^https:\/\/[a-zA-Z]{2}\.snssdk\.com\/api\/ad\/
 # >> Tonghuahshun
 DOMAIN-SUFFIX,adm.10jqka.com.cn
